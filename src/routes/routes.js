@@ -6,4 +6,4 @@ router.get('/usuarios', indexControl.show)
 router.post('/usuarios', indexControl.create)
 router.post('/login', indexControl.login)
 
-module.exports = { router };
+module.exports = router;

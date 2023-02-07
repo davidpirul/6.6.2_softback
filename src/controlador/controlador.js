@@ -35,4 +35,4 @@ const indexControl = {
 
 }
 
-module.exports = { indexControl };
+module.exports =  indexControl
